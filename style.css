@@ -100,6 +100,11 @@ Ponel el texto seleccionado negro
     text-align: center;
 }
 
+.list {
+    text-align: left;
+    display: inline-block;
+}
+
 
 /*
  Media queries bootstrap
